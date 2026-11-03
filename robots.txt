@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahmedabadprojects.co.in/sitemap.xml
+Sitemap: https://ahmedabadprojects.co.in/shantigram/adani-amora/sitemap.xml
+Sitemap: https://ahmedabadprojects.co.in/shantigram/adani-paarijat/sitemap.xml

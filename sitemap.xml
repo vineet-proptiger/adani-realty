@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Adani Amora -->
+  <url>
+    <loc>https://ahmedabadprojects.co.in/shantigram/adani-amora/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ahmedabadprojects.co.in/shantigram/adani-amora/privacy-policy.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Adani Paarijat -->
+  <url>
+    <loc>https://ahmedabadprojects.co.in/shantigram/adani-paarijat/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ahmedabadprojects.co.in/shantigram/adani-paarijat/privacy-policy.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

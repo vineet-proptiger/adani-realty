@@ -1,0 +1,46 @@
+# ═══════════════════════════════════════════════════
+# CLOUDFLARE PAGES CLEAN URLS & SLUG REWRITES
+# Domain: ahmedabadprojects.co.in
+# ═══════════════════════════════════════════════════
+
+# Case variations and aliases for Adani Amora
+/shantigram/Adani-amora        /shantigram/adani-amora/      301
+/shantigram/Adani-amora/       /shantigram/adani-amora/      301
+/shantigram/Adani-amora/*      /shantigram/adani-amora/:splat 301
+/shantigram/Adani-Amora        /shantigram/adani-amora/      301
+/shantigram/Adani-Amora/       /shantigram/adani-amora/      301
+/shantigram/Adani-Amora/*      /shantigram/adani-amora/:splat 301
+/shantigram/adani-amora        /shantigram/adani-amora/      301
+
+# Clean Slugs for Adani Amora
+/shantigram/adani-amora/new-launch            /shantigram/adani-amora/index.html          200
+/shantigram/adani-amora/new-launch/           /shantigram/adani-amora/index.html          200
+/shantigram/adani-amora/privacy-policy        /shantigram/adani-amora/privacy-policy.html 200
+/shantigram/adani-amora/privacy-policy/       /shantigram/adani-amora/privacy-policy.html 200
+/shantigram/adani-amora/terms-and-conditions  /shantigram/adani-amora/terms-and-conditions.html 200
+/shantigram/adani-amora/terms-and-conditions/ /shantigram/adani-amora/terms-and-conditions.html 200
+/shantigram/adani-amora/faqs                  /shantigram/adani-amora/faqs.html           200
+/shantigram/adani-amora/faqs/                 /shantigram/adani-amora/faqs.html           200
+/shantigram/adani-amora/sitemap               /shantigram/adani-amora/sitemap.xml         200
+/shantigram/adani-amora/sitemap/              /shantigram/adani-amora/sitemap.xml         200
+
+# Case variations and aliases for Adani Paarijat
+/shantigram/Adani-paarijat     /shantigram/adani-paarijat/   301
+/shantigram/Adani-paarijat/    /shantigram/adani-paarijat/   301
+/shantigram/Adani-paarijat/*   /shantigram/adani-paarijat/:splat 301
+/shantigram/Adani-Paarijat     /shantigram/adani-paarijat/   301
+/shantigram/Adani-Paarijat/    /shantigram/adani-paarijat/   301
+/shantigram/Adani-Paarijat/*   /shantigram/adani-paarijat/:splat 301
+/shantigram/adani-paarijat     /shantigram/adani-paarijat/   301
+
+# Clean Slugs for Adani Paarijat
+/shantigram/adani-paarijat/new-launch            /shantigram/adani-paarijat/index.html          200
+/shantigram/adani-paarijat/new-launch/           /shantigram/adani-paarijat/index.html          200
+/shantigram/adani-paarijat/privacy-policy        /shantigram/adani-paarijat/privacy-policy.html 200
+/shantigram/adani-paarijat/privacy-policy/       /shantigram/adani-paarijat/privacy-policy.html 200
+/shantigram/adani-paarijat/terms-and-conditions  /shantigram/adani-paarijat/terms-and-conditions.html 200
+/shantigram/adani-paarijat/terms-and-conditions/ /shantigram/adani-paarijat/terms-and-conditions.html 200
+/shantigram/adani-paarijat/faqs                  /shantigram/adani-paarijat/faqs.html           200
+/shantigram/adani-paarijat/faqs/                 /shantigram/adani-paarijat/faqs.html           200
+/shantigram/adani-paarijat/sitemap               /shantigram/adani-paarijat/sitemap.xml         200
+/shantigram/adani-paarijat/sitemap/              /shantigram/adani-paarijat/sitemap.xml         200

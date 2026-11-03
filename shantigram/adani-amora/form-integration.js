@@ -359,7 +359,12 @@ function RSLeadSubmit(form, event) {
     const prodDomain = window.BASE_URL || (typeof window !== 'undefined' ? window.location.origin : '');
     let cleanLandingPage = payloadData.landing_page || payloadData.SourceURL || (typeof window !== 'undefined' ? window.location.href : '');
     if (devCfg.rewriteLocalhostDomain && (cleanLandingPage.includes('localhost') || cleanLandingPage.includes('127.0.0.1'))) {
-      cleanLandingPage = cleanLandingPage.replace(/^https?:\/\/(localhost|127\.0\.0\.1)(:\d+)?/, prodDomain);
+      if (prodDomain.includes('/shantigram/') && cleanLandingPage.includes('/shantigram/')) {
+        const rootDomain = prodDomain.split('/shantigram/')[0];
+        cleanLandingPage = cleanLandingPage.replace(/^https?:\/\/(localhost|127\.0\.0\.1)(:\d+)?/, rootDomain);
+      } else {
+        cleanLandingPage = cleanLandingPage.replace(/^https?:\/\/(localhost|127\.0\.0\.1)(:\d+)?/, prodDomain);
+      }
     }
 
     let cleanReferrer = document.referrer || devCfg.defaultReferrer || '';
