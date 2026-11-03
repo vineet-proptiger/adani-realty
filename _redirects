@@ -3,6 +3,10 @@
 # Domain: ahmedabadprojects.co.in
 # ═══════════════════════════════════════════════════
 
+# Root domain 404 (Main domain disabled for now)
+/              /404.html                     404
+/index.html    /404.html                     404
+
 # Case variations and aliases for Adani Amora
 /shantigram/Adani-amora        /shantigram/adani-amora/      301
 /shantigram/Adani-amora/       /shantigram/adani-amora/      301
