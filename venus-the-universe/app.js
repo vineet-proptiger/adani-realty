@@ -200,18 +200,12 @@ window.openGalleryLightbox = function (idx) {
   curGalleryIdx = idx;
   const lb = document.getElementById('gallery-lightbox');
   const img = document.getElementById('gallery-lightbox-img');
-  const title = document.getElementById('gallery-lightbox-title');
-  const category = document.getElementById('gallery-lightbox-category');
-  const counter = document.getElementById('gallery-lightbox-counter');
 
   if (!lb || !img) return;
 
   const item = galleryItems[curGalleryIdx];
   img.src = item.src;
   img.alt = item.title;
-  if (title) title.innerText = item.title;
-  if (category) category.innerText = item.category;
-  if (counter) counter.innerText = `${curGalleryIdx + 1} / ${galleryItems.length}`;
 
   lb.classList.remove('hidden');
   lb.classList.add('flex');

@@ -1839,19 +1839,14 @@
         <i class="fa-solid fa-chevron-right"></i>
       </button>
 
-      <!-- Center Image & Captions -->
-      <div class="relative max-w-5xl max-h-[85vh] flex flex-col items-center justify-center" onclick="event.stopPropagation()">
+      <!-- Center Image -->
+      <div class="relative max-w-5xl max-h-[90vh] flex flex-col items-center justify-center" onclick="event.stopPropagation()">
         <img
           id="gallery-lightbox-img"
           src="images/gallery/g1.webp"
           alt="Gallery Preview"
-          class="max-w-full max-h-[75vh] object-contain rounded-lg shadow-2xl"
+          class="max-w-full max-h-[85vh] object-contain rounded-lg shadow-2xl"
         />
-        <div class="mt-4 text-center">
-          <span id="gallery-lightbox-category" class="text-xs uppercase tracking-widest text-white font-bold block mb-1">Project Architecture</span>
-          <h4 id="gallery-lightbox-title" class="text-white font-extrabold text-lg m-0">Serviced Residences &amp; Co-Living View</h4>
-          <span id="gallery-lightbox-counter" class="text-xs text-gray-400 mt-1 block">1 / 5</span>
-        </div>
       </div>
     </div>
 
