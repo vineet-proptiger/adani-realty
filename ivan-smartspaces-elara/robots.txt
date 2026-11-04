@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahmedabadprojects.co.in/ivan-smartspaces-elara/sitemap.xml

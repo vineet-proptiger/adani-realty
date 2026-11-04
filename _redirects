@@ -94,3 +94,57 @@
 /venus-the-universe/faqs/                 /venus-the-universe/faqs.html           200
 /venus-the-universe/sitemap               /venus-the-universe/sitemap.xml         200
 /venus-the-universe/sitemap/              /venus-the-universe/sitemap.xml         200
+
+# ───────────────────────────────────────────────────
+# Ivan Smartspaces Elara
+# ───────────────────────────────────────────────────
+/Ivan-smartspaces-elara        /ivan-smartspaces-elara/      301
+/Ivan-smartspaces-elara/       /ivan-smartspaces-elara/      301
+/Ivan-smartspaces-elara/*      /ivan-smartspaces-elara/:splat 301
+/Ivan-Smartspaces-Elara        /ivan-smartspaces-elara/      301
+/Ivan-Smartspaces-Elara/       /ivan-smartspaces-elara/      301
+/Ivan-Smartspaces-Elara/*      /ivan-smartspaces-elara/:splat 301
+/ivan-smartspaces-elara        /ivan-smartspaces-elara/      301
+
+/ivan-smartspaces-elara/new-launch            /ivan-smartspaces-elara/index.html          200
+/ivan-smartspaces-elara/new-launch/           /ivan-smartspaces-elara/index.html          200
+/ivan-smartspaces-elara/privacy-policy        /ivan-smartspaces-elara/privacy-policy.html 200
+/ivan-smartspaces-elara/privacy-policy/       /ivan-smartspaces-elara/privacy-policy.html 200
+/ivan-smartspaces-elara/terms-and-conditions  /ivan-smartspaces-elara/terms-and-conditions.html 200
+/ivan-smartspaces-elara/terms-and-conditions/ /ivan-smartspaces-elara/terms-and-conditions.html 200
+/ivan-smartspaces-elara/faqs                  /ivan-smartspaces-elara/faqs.html           200
+/ivan-smartspaces-elara/faqs/                 /ivan-smartspaces-elara/faqs.html           200
+/ivan-smartspaces-elara/sitemap               /ivan-smartspaces-elara/sitemap.xml         200
+/ivan-smartspaces-elara/sitemap/              /ivan-smartspaces-elara/sitemap.xml         200
+
+# ───────────────────────────────────────────────────
+# Samanvay Evoq
+# ───────────────────────────────────────────────────
+/Samanvay-evoq                 /samanvyay-evoq/              301
+/Samanvay-evoq/                /samanvyay-evoq/              301
+/Samanvay-evoq/*               /samanvyay-evoq/:splat        301
+/Samanvay-Evoq                 /samanvyay-evoq/              301
+/Samanvay-Evoq/                /samanvyay-evoq/              301
+/Samanvay-Evoq/*               /samanvyay-evoq/:splat        301
+/samanvay-evoq                 /samanvyay-evoq/              301
+/samanvay-evoq/                /samanvyay-evoq/              301
+/samanvay-evoq/*               /samanvyay-evoq/:splat        301
+
+/Samanvyay-evoq                /samanvyay-evoq/              301
+/Samanvyay-evoq/               /samanvyay-evoq/              301
+/Samanvyay-evoq/*              /samanvyay-evoq/:splat        301
+/Samanvyay-Evoq                /samanvyay-evoq/              301
+/Samanvyay-Evoq/               /samanvyay-evoq/              301
+/Samanvyay-Evoq/*              /samanvyay-evoq/:splat        301
+/samanvyay-evoq                /samanvyay-evoq/              301
+
+/samanvyay-evoq/new-launch            /samanvyay-evoq/index.html          200
+/samanvyay-evoq/new-launch/           /samanvyay-evoq/index.html          200
+/samanvyay-evoq/privacy-policy        /samanvyay-evoq/privacy-policy.html 200
+/samanvyay-evoq/privacy-policy/       /samanvyay-evoq/privacy-policy.html 200
+/samanvyay-evoq/terms-and-conditions  /samanvyay-evoq/terms-and-conditions.html 200
+/samanvyay-evoq/terms-and-conditions/ /samanvyay-evoq/terms-and-conditions.html 200
+/samanvyay-evoq/faqs                  /samanvyay-evoq/faqs.html           200
+/samanvyay-evoq/faqs/                 /samanvyay-evoq/faqs.html           200
+/samanvyay-evoq/sitemap               /samanvyay-evoq/sitemap.xml         200
+/samanvyay-evoq/sitemap/              /samanvyay-evoq/sitemap.xml         200
