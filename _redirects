@@ -7,7 +7,9 @@
 /              /404.html                     404
 /index.html    /404.html                     404
 
-# Case variations and aliases for Adani Amora
+# ───────────────────────────────────────────────────
+# Adani Amora
+# ───────────────────────────────────────────────────
 /shantigram/Adani-amora        /shantigram/adani-amora/      301
 /shantigram/Adani-amora/       /shantigram/adani-amora/      301
 /shantigram/Adani-amora/*      /shantigram/adani-amora/:splat 301
@@ -16,7 +18,6 @@
 /shantigram/Adani-Amora/*      /shantigram/adani-amora/:splat 301
 /shantigram/adani-amora        /shantigram/adani-amora/      301
 
-# Clean Slugs for Adani Amora
 /shantigram/adani-amora/new-launch            /shantigram/adani-amora/index.html          200
 /shantigram/adani-amora/new-launch/           /shantigram/adani-amora/index.html          200
 /shantigram/adani-amora/privacy-policy        /shantigram/adani-amora/privacy-policy.html 200
@@ -28,7 +29,9 @@
 /shantigram/adani-amora/sitemap               /shantigram/adani-amora/sitemap.xml         200
 /shantigram/adani-amora/sitemap/              /shantigram/adani-amora/sitemap.xml         200
 
-# Case variations and aliases for Adani Paarijat
+# ───────────────────────────────────────────────────
+# Adani Paarijat
+# ───────────────────────────────────────────────────
 /shantigram/Adani-paarijat     /shantigram/adani-paarijat/   301
 /shantigram/Adani-paarijat/    /shantigram/adani-paarijat/   301
 /shantigram/Adani-paarijat/*   /shantigram/adani-paarijat/:splat 301
@@ -37,7 +40,6 @@
 /shantigram/Adani-Paarijat/*   /shantigram/adani-paarijat/:splat 301
 /shantigram/adani-paarijat     /shantigram/adani-paarijat/   301
 
-# Clean Slugs for Adani Paarijat
 /shantigram/adani-paarijat/new-launch            /shantigram/adani-paarijat/index.html          200
 /shantigram/adani-paarijat/new-launch/           /shantigram/adani-paarijat/index.html          200
 /shantigram/adani-paarijat/privacy-policy        /shantigram/adani-paarijat/privacy-policy.html 200
@@ -48,3 +50,47 @@
 /shantigram/adani-paarijat/faqs/                 /shantigram/adani-paarijat/faqs.html           200
 /shantigram/adani-paarijat/sitemap               /shantigram/adani-paarijat/sitemap.xml         200
 /shantigram/adani-paarijat/sitemap/              /shantigram/adani-paarijat/sitemap.xml         200
+
+# ───────────────────────────────────────────────────
+# Kavisha The Masterpiece
+# ───────────────────────────────────────────────────
+/Kavisha-the-masterpiece       /kavisha-the-masterpiece/     301
+/Kavisha-the-masterpiece/      /kavisha-the-masterpiece/     301
+/Kavisha-the-masterpiece/*     /kavisha-the-masterpiece/:splat 301
+/Kavisha-The-Masterpiece       /kavisha-the-masterpiece/     301
+/Kavisha-The-Masterpiece/      /kavisha-the-masterpiece/     301
+/Kavisha-The-Masterpiece/*     /kavisha-the-masterpiece/:splat 301
+/kavisha-the-masterpiece       /kavisha-the-masterpiece/     301
+
+/kavisha-the-masterpiece/new-launch            /kavisha-the-masterpiece/index.html          200
+/kavisha-the-masterpiece/new-launch/           /kavisha-the-masterpiece/index.html          200
+/kavisha-the-masterpiece/privacy-policy        /kavisha-the-masterpiece/privacy-policy.html 200
+/kavisha-the-masterpiece/privacy-policy/       /kavisha-the-masterpiece/privacy-policy.html 200
+/kavisha-the-masterpiece/terms-and-conditions  /kavisha-the-masterpiece/terms-and-conditions.html 200
+/kavisha-the-masterpiece/terms-and-conditions/ /kavisha-the-masterpiece/terms-and-conditions.html 200
+/kavisha-the-masterpiece/faqs                  /kavisha-the-masterpiece/faqs.html           200
+/kavisha-the-masterpiece/faqs/                 /kavisha-the-masterpiece/faqs.html           200
+/kavisha-the-masterpiece/sitemap               /kavisha-the-masterpiece/sitemap.xml         200
+/kavisha-the-masterpiece/sitemap/              /kavisha-the-masterpiece/sitemap.xml         200
+
+# ───────────────────────────────────────────────────
+# Venus The Universe
+# ───────────────────────────────────────────────────
+/Venus-the-universe            /venus-the-universe/          301
+/Venus-the-universe/           /venus-the-universe/          301
+/Venus-the-universe/*          /venus-the-universe/:splat    301
+/Venus-The-Universe            /venus-the-universe/          301
+/Venus-The-Universe/           /venus-the-universe/          301
+/Venus-The-Universe/*          /venus-the-universe/:splat    301
+/venus-the-universe            /venus-the-universe/          301
+
+/venus-the-universe/new-launch            /venus-the-universe/index.html          200
+/venus-the-universe/new-launch/           /venus-the-universe/index.html          200
+/venus-the-universe/privacy-policy        /venus-the-universe/privacy-policy.html 200
+/venus-the-universe/privacy-policy/       /venus-the-universe/privacy-policy.html 200
+/venus-the-universe/terms-and-conditions  /venus-the-universe/terms-and-conditions.html 200
+/venus-the-universe/terms-and-conditions/ /venus-the-universe/terms-and-conditions.html 200
+/venus-the-universe/faqs                  /venus-the-universe/faqs.html           200
+/venus-the-universe/faqs/                 /venus-the-universe/faqs.html           200
+/venus-the-universe/sitemap               /venus-the-universe/sitemap.xml         200
+/venus-the-universe/sitemap/              /venus-the-universe/sitemap.xml         200

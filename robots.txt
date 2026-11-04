@@ -4,3 +4,5 @@ Allow: /
 Sitemap: https://ahmedabadprojects.co.in/sitemap.xml
 Sitemap: https://ahmedabadprojects.co.in/shantigram/adani-amora/sitemap.xml
 Sitemap: https://ahmedabadprojects.co.in/shantigram/adani-paarijat/sitemap.xml
+Sitemap: https://ahmedabadprojects.co.in/kavisha-the-masterpiece/sitemap.xml
+Sitemap: https://ahmedabadprojects.co.in/venus-the-universe/sitemap.xml

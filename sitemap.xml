@@ -3,13 +3,13 @@
   <!-- Adani Amora -->
   <url>
     <loc>https://ahmedabadprojects.co.in/shantigram/adani-amora/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ahmedabadprojects.co.in/shantigram/adani-amora/privacy-policy.html</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -17,13 +17,41 @@
   <!-- Adani Paarijat -->
   <url>
     <loc>https://ahmedabadprojects.co.in/shantigram/adani-paarijat/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ahmedabadprojects.co.in/shantigram/adani-paarijat/privacy-policy.html</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Kavisha The Masterpiece -->
+  <url>
+    <loc>https://ahmedabadprojects.co.in/kavisha-the-masterpiece/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ahmedabadprojects.co.in/kavisha-the-masterpiece/privacy-policy.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Venus The Universe -->
+  <url>
+    <loc>https://ahmedabadprojects.co.in/venus-the-universe/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ahmedabadprojects.co.in/venus-the-universe/privacy-policy.html</loc>
+    <lastmod>2026-11-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

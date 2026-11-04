@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahmedabadprojects.co.in/kavisha-the-masterpiece/sitemap.xml

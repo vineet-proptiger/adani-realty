@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahmedabadprojects.co.in/venus-the-universe/sitemap.xml
