@@ -14,7 +14,7 @@ window._cLink = window.WHATSAPP_URL;
 
 window.CITY_DISPLAY = "Ahmedabad";
 window.CITY_SLUG = "ahmedabad";
-window.CITY_ID = "2";
+window.CITY_ID = "2"; 
 window.SHEET_NAME = "Ahmedabad";
 window.SECRET_KEY = "6c7f9ad8b2a1e0f4d5a8c0b9f6e2a4d190";
 
